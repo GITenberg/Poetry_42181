@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41561'
     url: http://www.gutenberg.org/2009/agents/41561
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42181#Poetry
 gutenberg_issued: '2013-02-23'
 gutenberg_type: Text
 identifiers:
